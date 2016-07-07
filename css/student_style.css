@@ -32,5 +32,15 @@
     outline-color: #fae231;
   }
 }
-
+ #student9 {
+ background-image: url('https://orig15.deviantart.net/527e/f/2015/203/0/8/clarence_by_mowmeme-d92bx9p.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  font-size: 30px;
+  color: #fff;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  text-shadow: 1px 1px #000;
+  transition: .2s;
+ }
 /* Place your styles below this line */
